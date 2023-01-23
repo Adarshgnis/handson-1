@@ -1,0 +1,17 @@
+.Functional-div {
+    margin-top: 70px;
+    background-color:lightcoral;
+    width: 40%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 1.4rem;
+    color:black;
+    padding: 20px;
+}
+
+.external-paragraph {
+    text-align: center;
+    padding: 10px;
+}
